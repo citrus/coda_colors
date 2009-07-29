@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<seestyle>
+<mode id="SEEMode.ERB">
+  <style id="_Default"
+    color="#000000" inverted-color="#ffffff"  font-style="normal" font-weight="normal" background-color="#ffffff" inverted-background-color="#0c0c0c" />
+  <style id="/ERB/Entities"
+    color="#881280" inverted-color="#c12754"  font-style="normal" font-weight="normal" />
+  <style id="/ERB/Ruby"
+    color="#000000" inverted-color="#cbcbcb"  font-style="normal" font-weight="normal" />
+  <style id="/ERB/ERB Delimiter"
+    color="#d00000" inverted-color="#ba0000"  font-style="normal" font-weight="normal" />
+  <style id="/Ruby/Literals"
+    color="#0000cc" inverted-color="#c12754"  font-style="normal" font-weight="normal" />
+  <style id="/Ruby/Attribute Definitions"
+    color="#0000cc" inverted-color="#c12754"  font-style="normal" font-weight="normal" />
+  <style id="/Ruby/Definitions"
+    color="#881350" inverted-color="#ba0000"  font-style="normal" font-weight="normal" />
+  <style id="/Ruby/Keywords"
+    color="#881350" inverted-color="#ba0000"  font-style="normal" font-weight="normal" />
+  <style id="/Ruby/Builtin Functions"
+    color="#881350" inverted-color="#c12754"  font-style="normal" font-weight="normal" />
+  <style id="/Ruby/Builtin Classes"
+    color="#881350" inverted-color="#ba0000"  font-style="normal" font-weight="normal" />
+  <style id="/Ruby/Builtin Globals"
+    color="#a1617a" inverted-color="#891d12"  font-style="normal" font-weight="normal" />
+  <style id="/Ruby/Numbers"
+    color="#0000ff" inverted-color="#689136"  font-style="normal" font-weight="normal" />
+  <style id="/Ruby/Symbols"
+    color="#d6771c" inverted-color="#c65722"  font-style="normal" font-weight="normal" />
+  <style id="/Ruby/Instance Variables"
+    color="#c94b16" inverted-color="#689136"  font-style="normal" font-weight="normal" />
+  <style id="/Ruby/Class Variables"
+    color="#008c8c" inverted-color="#73ffff"  font-style="normal" font-weight="normal" />
+  <style id="/Ruby/Global Variables"
+    color="#8a578f" inverted-color="#c65722"  font-style="normal" font-weight="normal" />
+  <style id="/Ruby/Hexadecimal Characters"
+    color="#0000ff" inverted-color="#2a83bc"  font-style="normal" font-weight="normal" />
+  <style id="/Ruby/String with double quotes"
+    color="#760f15" inverted-color="#e8b92f"  font-style="normal" font-weight="normal" />
+  <style id="/Ruby/Embedded Expression"
+    color="#b80f15" inverted-color="#494949"  font-style="normal" font-weight="normal" />
+  <style id="/Ruby/String with single quotes"
+    color="#760f15" inverted-color="#e8b92f"  font-style="normal" font-weight="normal" />
+  <style id="/Ruby/Strings with percent Q1"
+    color="#760f15" inverted-color="#f48700"  font-style="normal" font-weight="normal" />
+  <style id="/Ruby/Strings with percent /"
+    color="#760f15" inverted-color="#f48700"  font-style="normal" font-weight="normal" />
+  <style id="/Ruby/Strings with percent Q2"
+    color="#760f15" inverted-color="#f48700"  font-style="normal" font-weight="normal" />
+  <style id="/Ruby/Strings with percent Q3"
+    color="#760f15" inverted-color="#f48700"  font-style="normal" font-weight="normal" />
+  <style id="/Ruby/Strings with parenthesis"
+    color="#760f15" inverted-color="#f48700"  font-style="normal" font-weight="normal" />
+  <style id="/Ruby/Heredoc"
+    color="#760f15" inverted-color="#f48700"  font-style="normal" font-weight="normal" />
+  <style id="/Ruby/Backticks"
+    color="#669999" inverted-color="#669999"  font-style="normal" font-weight="normal" />
+  <style id="/Ruby/Singleline Comment"
+    color="#236e25" inverted-color="#f0898f"  font-style="normal" font-weight="normal" />
+  <style id="/Ruby/Regexp"
+    color="#661aa9" inverted-color="#523719"  font-style="normal" font-weight="normal" />
+  <style id="/Ruby/Escaped Characters"
+    color="#be73fd" inverted-color="#494949"  font-style="normal" font-weight="normal" />
+  <style id="/Ruby/POD Comments"
+    color="#800000" inverted-color="#ff7f7f"  font-style="normal" font-weight="normal" />
+  <style id="/ERB/Comment"
+    color="#236e25" inverted-color="#91dc93"  font-style="italic" font-weight="normal" />
+  <style id="/ERB/SGML Double Dash"
+    color="#ff0000" inverted-color="#ff0000"  font-style="normal" font-weight="normal" />
+  <style id="/ERB/CDATA"
+    color="#ff0000" inverted-color="#ff0000"  font-style="italic" font-weight="normal" />
+  <style id="/ERB/Doctype"
+    color="#236e25" inverted-color="#91dc93"  font-style="italic" font-weight="normal" />
+  <style id="/ERB/Escape"
+    color="#236e25" inverted-color="#91dc93"  font-style="normal" font-weight="normal" />
+  <style id="/ERB/Inline CSS"
+    color="#000000" inverted-color="#ffffff"  font-style="normal" font-weight="normal" />
+  <style id="/ERB/Style Tags"
+    color="#881280" inverted-color="#c12754"  font-style="normal" font-weight="normal" />
+  <style id="/ERB/Opening Style Tag"
+    color="#881280" inverted-color="#c12754"  font-style="normal" font-weight="normal" />
+  <style id="/ERB/Attributes in Tags"
+    color="#994500" inverted-color="#e8b92f"  font-style="normal" font-weight="normal" />
+  <style id="/ERB/Strings in Tags"
+    color="#1a1aa6" inverted-color="#59692f"  font-style="normal" font-weight="normal" />
+  <style id="/ERB/Inside curly brackets"
+    color="#000000" inverted-color="#cbcbcb"  font-style="normal" font-weight="normal" />
+  <style id="/CSS/CSS Keywords"
+    color="#88134f" inverted-color="#c65722"  font-style="normal" font-weight="normal" />
+  <style id="/ERB/CSSComment"
+    color="#236e25" inverted-color="#91dc93"  font-style="italic" font-weight="normal" />
+  <style id="/ERB/CSSRound bracket"
+    color="#760f15" inverted-color="#e8b92f"  font-style="normal" font-weight="normal" />
+  <style id="/ERB/CSSString"
+    color="#760f15" inverted-color="#59692f"  font-style="normal" font-weight="normal" />
+  <style id="/ERB/CSSSingleString"
+    color="#760f15" inverted-color="#689136"  font-style="normal" font-weight="normal" />
+  <style id="/ERB/Inline Javascript"
+    color="#000000" inverted-color="#ffffff"  font-style="normal" font-weight="normal" />
+  <style id="/ERB/Script Tags"
+    color="#881280" inverted-color="#c12754"  font-style="normal" font-weight="normal" />
+  <style id="/Javascript/Keywords"
+    color="#881350" inverted-color="#c12754"  font-style="normal" font-weight="normal" />
+  <style id="/Javascript/Numbers"
+    color="#0000ff" inverted-color="#e8b92f"  font-style="normal" font-weight="normal" />
+  <style id="/Javascript/Characters"
+    color="#0000ff" inverted-color="#891d12"  font-style="normal" font-weight="normal" />
+  <style id="/Javascript/FunctionRegex"
+    color="#003369" inverted-color="#689136"  font-style="normal" font-weight="normal" />
+  <style id="/ERB/Opening Script Tag"
+    color="#881280" inverted-color="#c12754"  font-style="normal" font-weight="normal" />
+  <style id="/ERB/JSAutodocComment"
+    color="#236e25" inverted-color="#91dc93"  font-style="italic" font-weight="normal" />
+  <style id="/ERB/JSComment"
+    color="#236e25" inverted-color="#91dc93"  font-style="italic" font-weight="normal" />
+  <style id="/ERB/JSSingleComment"
+    color="#236e25" inverted-color="#91dc93"  font-style="italic" font-weight="normal" />
+  <style id="/ERB/JSRegEx"
+    color="#760f15" inverted-color="#523719"  font-style="normal" font-weight="normal" />
+  <style id="/ERB/JSEscaped Characters"
+    color="#d00000" inverted-color="#494949"  font-style="normal" font-weight="normal" />
+  <style id="/ERB/JSString"
+    color="#760f15" inverted-color="#e8b92f"  font-style="normal" font-weight="normal" />
+  <style id="/ERB/JSSingleString"
+    color="#760f15" inverted-color="#c65722"  font-style="normal" font-weight="normal" />
+  <style id="/ERB/Tags"
+    color="#881280" inverted-color="#c12754"  font-style="normal" font-weight="normal" />
+</mode>
+</seestyle>
